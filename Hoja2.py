@@ -1,14 +1,16 @@
 #Ejercicio 1
-
 n = int(input("Intoduzca el numero para el triangulo rectangulo: "))
 for i in range(n+1):
     print("*"*i)
+
 
 
 #Ejercicio 2
 n = int(input("Intoduzca el numero para la cuenta regresiva: "))
 for i in range(n,-1,-1):
     print(i,end=",")
+
+
 
  #Ejercicio 3
 r= True
